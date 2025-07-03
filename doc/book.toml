@@ -1,0 +1,5 @@
+[book]
+authors = ["Quill"]
+language = "en"
+src = "src"
+title = "Aria.LastByte"
