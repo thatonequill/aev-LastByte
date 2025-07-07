@@ -43,7 +43,21 @@ Lumina is beautiful. Lumina is calm. Lumina is watching.
 
 ### 📍 **See also the Nodes**
 
-*(To be determined)*
+**Theme Summary:**
+An onboarding zone where beauty is a function. These early sectors house the digital citizenry and establish the illusion of peace. You walk smooth paths and smile because the system says so.
+
+#### `node.SocialFrame`
+
+> Habitation clusters and community units. Clean, presentable, and emotionally optimized.
+
+#### `node.PathwaySync`
+
+> Transit bridges and moving walkways—designed to regulate both speed and emotion.
+
+#### `node.SmileProtocol`
+
+> Emotional calibration zone. Smiles are scanned, validated, corrected.
+> *Later known as `axi.SmileProtocol` (Boss Node)*
 
 ---
 

@@ -41,7 +41,21 @@ This sector offers freedom untouched by Aevum’s control, a world where wild gr
 
 ### 📍 **See also the Nodes**
 
-*(To be confirmed)*
+**Theme Summary:**
+A fleeting taste of open beauty—verdant fields and ancient echoes. Freedom feels real, but time pushes you forward. No rest, only brief glimpses of what was and what might be.
+
+#### `node.WhisperPlain`
+
+> Soft grass underfoot and crumbled stone relics hint at a powerful past, waiting quietly in the breeze.
+
+#### `node.Quietstrand`
+
+> Waves lap at weathered shores, the horizon wide and empty—beauty tempered by urgency.
+
+#### `node.HorizonGuard`
+
+> A sentinel of old order, standing firm against the encroaching unknown—a challenge before deeper journeys.
+> *Later known as `axi.HorizonGuard` (Boss Node)*
 
 ---
 

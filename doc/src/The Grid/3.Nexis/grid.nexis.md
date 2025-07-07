@@ -44,7 +44,25 @@ Still, some processes aren’t running cleanly. Empty patrol loops repeat endles
 
 ### 📍 **See also the Nodes**
 
-*(To be confirmed)*
+**Theme Summary:**
+Nexis is the execution layer of the Glasspace—where code becomes command. Here, citizens don’t live—they process. Structures enforce logic through architecture. Nothing asks; everything *executes*.
+
+#### `node.LoadBalancer`
+
+> Arrival zone for drones, parcels, and pre-cleared citizen movement. Nothing here stops—only reroutes.
+
+#### `node.FlowNest`
+
+> Vents hum with unbroken rhythm. Access corridors echo with routines no one monitors—but never stop.
+
+#### `node.AutoPrism`
+
+> You’re not hunted—you’re prevented. Pathways isolate. Floors drop. You’re flagged, logged, neutralized.
+
+#### `node.FlagPulse`
+
+> Not an enemy—a subroutine that doesn’t understand why you’re still moving.
+> *Later known as `axi.FlagPulse` (Boss Node)*
 
 ---
 

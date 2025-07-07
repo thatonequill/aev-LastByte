@@ -1,6 +1,6 @@
 # Quanta断裂 ('QuantaFracture')
 
-## `Fracture` – Frx Sector 1
+## `Fracture` – Shard 7-2
 
 **Difficulty:** ⍉ <br>
 **Realm:** Fracture
