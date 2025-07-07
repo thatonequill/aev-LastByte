@@ -97,14 +97,14 @@ vaiiya => https://www.1001fonts.com/quantum-font.html
 Each attack is assigned a **Signature**, which determines its **Type**, **Resistance behavior**, and often a **Status Effect**.
 Factions resist based on **Type**, with some Signatures bypassing or modifying this behavior.
 
-| **Type**    | **Faction RES**  | **Notes**                                        |
-| ----------- | ---------------- | ------------------------------------------------ |
-| 🟥 Physical | None             | Baseline. All factions treat this equally.       |
-| 🟦 Digital  | ✅ Verdarch RES   | Digital-native minds adapt to logic.             |
-| 🟪 Magical  | ✅ Aevum RES      | Aevum bodies are built on soul-forms.            |
-| ⚫ Null      | 🚫 No RES (Ever) | Ignores all defenses. **System-breaking logic.** |
+| **Type**    | **Faction RES**    | **Notes**                                    |
+| ----------- | ------------------ | -------------------------------------------- |
+| 🟥 Physical | None               | Baseline. All factions treat this equally.   |
+| 🟦 Digital  | ✅ Verdarch RES     | Digital-native minds adapt to logic.         |
+| 🟪 Magical  | ✅ Aevum RES        | Aevum bodies are built on soul-forms.        |
+| ⚫ Null      | 🚫 No RES (Ever\*) | Ignores all defenses. System-breaking logic. |
 
-> ⚠️ **Note:** Only **one entity** in the entire game *might* resist **Null**, and **it's not because it follows the rules.**
+> *Note: Only one entity in the entire game might resist Null, and it’s not because it follows the rules.*
 
 ---
 
@@ -114,7 +114,7 @@ Factions resist based on **Type**, with some Signatures bypassing or modifying t
 
 | **Signature** | **Description**                             | **Status Effect**    | **Exception RES** |
 | ------------- | ------------------------------------------- | -------------------- | ----------------- |
-| `Kinetic`     | Blunt force. Hammers, fists, brute strikes. | Knockback / Stagger  | —                 |
+| `Kinetic`     | Blunt force. Hammers, fists, brute strikes. | Delay / Stagger      | —                 |
 | `Pierce`      | Precision strikes. Needles, rapiers, shots. | Bleed                | —                 |
 | `Friction`    | Heat from rapid movement or impact.         | Burn                 | —                 |
 | `Poison`      | Organic venom. Delayed internal damage.     | Toxin / Degeneration | 🟪 Aevum RES      |
@@ -128,11 +128,11 @@ Factions resist based on **Type**, with some Signatures bypassing or modifying t
 
 | **Signature** | **Description**                           | **Status Effect**       | **Exception RES** |
 | ------------- | ----------------------------------------- | ----------------------- | ----------------- |
-| `Script`      | Short code bursts. Logic spikes.          | Lag / Delay             | —                 |
-| `Cognitive`   | Emotional overwrite. Forces mood logic.   | Panic / Fear / Desync   | —                 |
+| `Script`      | Short code bursts. Logic spikes.          | Delay                   | —                 |
+| `Cognitive`   | Emotional overwrite. Forces mood logic.   | Panic                   | —                 |
 | `Overload`    | Thermal or voltage surges.                | Heat / Shutdown         | —                 |
 | `Packetloss`  | Memory corruption or missing data blocks. | Confusion / Inaccuracy  | —                 |
-| `Loop`        | Recursive self-damaging cycle.            | Feedback / Chain Damage | —                 |
+| `Loop`        | Recursive self-damaging cycle.            | Chain Damage            | —                 |
 
 ---
 
@@ -143,9 +143,9 @@ Factions resist based on **Type**, with some Signatures bypassing or modifying t
 | **Signature** | **Description**                           | **Status Effect**       | **Exception RES** |
 | ------------- | ----------------------------------------- | ----------------------- | ----------------- |
 | `Aetheric`    | Traditional soulbound force. Pure aether. | Spiritburn              | —                 |
-| `Spore`       | Infectious fungal bloom.                  | Infection / Rot         | —                 |
+| `Spore`       | Infectious fungal bloom.                  | Rot                     | —                 |
 | `Verdant`     | Growth as weapon. Binding vines, roots.   | Entangle / Regen Denial | —                 |
-| `Hex`         | Curse logic, soul destabilizers.          | Weakness / Luck Inverse | —                 |
+| `Hex`         | Curse logic, soul destabilizers.          | Weakness                | —                 |
 | `Ash`         | Residue of burnt offerings and rituals.   | Burn + Wither           | —                 |
 
 ---
@@ -156,9 +156,6 @@ Factions resist based on **Type**, with some Signatures bypassing or modifying t
 
 | **Signature** | **Description**                                  | **Status Effect**     | **Access**  |
 | ------------- | ------------------------------------------------ | --------------------- | ----------- |
-| `Null`        | Hits through all resistance. No logic applied.   | True Damage           | ❗ Rare      |
-| `Break`       | Rips causality. Splits objects or memory states. | Reality Fracture      | ❗ Rare      |
+| `Break`       | Hits through all resistance. No logic applied.   | True Damage           | ❗ Rare      |
 | `EchoEnd`     | Copies the moment of death in advance.           | Doomed (Delayed Kill) | ❗ Rare      |
 | `404`         | Doesn’t exist. Still happens.                    | Existence Error       | ❗ Very Rare |
-
-> 🕳 **Only one entity in the entire game might resist Null — and it’s not because it follows the rules.**
