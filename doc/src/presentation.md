@@ -22,7 +22,7 @@ Each world comes with its own enemy faction:
 
 * `Aevum`: the faction in charge of Glasspace—order and unity for the greater good.
 
-  > *We must move as one. Anything going against our flow shall be eliminated.*
+  > *We must move as one. Anything going against our flow will be eliminated.*
 
 * `Verdarch`: the faction in charge of Meatspace—nature’s free flow is their only guide.
 
@@ -113,7 +113,7 @@ It's a **one-way interface**, accessible only at specific, abundant map points.
 
 The map, referred to as **`The Grid`**, will have a set flow (no procedural generation), with **partially random enemy placements**.
 
-It won’t be fully linear—you’ll need to backtrack to key points over time. Your goal is to **gather data**, after all.
+It won’t be fully linear—you’ll need to backtrack to key points over time. Your goal is to gather data after all.
 
 The Grid is divided into **Areas (`Shards`)**, and each Shard into **Nodes**.
 Nodes are explorable gameplay spaces.
@@ -154,7 +154,7 @@ Here are the **map-related extensions** for now:
 | `err.`        | Error                | Secret bosses — corrupted hybrid entities                       |
 
 It might sound complicated at first, but it quickly becomes second nature.
-Later on, weapons might use a similar system instead of traditional labels like “sword” or “bow.”
+Later on, weapons will use a similar system instead of traditional labels like “sword” or “bow.”
 
 ---
 
