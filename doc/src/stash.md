@@ -1,3 +1,7 @@
+# **THIS IS WIP. THIS FILE IS ONLY FOR IDEAS AND IS NOT TO BE TAKEN AS GRANTED**
+
+Its where I temporarely keep stuff and use parts of it later. Read it, but dont think anything said in here is what will end up to be.
+
 # aev.LastByte
 
 aev.LastByte is a 2D action-adventure game set in a futiristic world with a neon cityscape set in a Glasspace. The protagonist is a young woman named Aria, who finds herself joining a hacker group called the "Echoes". This group is dedicated to uncovering the truth and unveil of the lies of government, called Aevum, and its dark secrets.
@@ -156,6 +160,6 @@ Factions resist based on **Type**, with some Signatures bypassing or modifying t
 
 | **Signature** | **Description**                                  | **Status Effect**     | **Access**  |
 | ------------- | ------------------------------------------------ | --------------------- | ----------- |
-| `Break`       | Hits through all resistance. No logic applied.   | True Damage           | ❗ Rare      |
-| `EchoEnd`     | Copies the moment of death in advance.           | Doomed (Delayed Kill) | ❗ Rare      |
-| `404`         | Doesn’t exist. Still happens.                    | Existence Error       | ❗ Very Rare |
+| `Break`       | Hits through all resistance. No logic applied.   | True Damage           | ❗           |
+| `EchoEnd`     | Copies the moment of death in advance.           | Doomed (Delayed Kill) | ❗           |
+| `404`         | Doesn’t exist. Still happens.                    | Existence Error       | ❗           |
