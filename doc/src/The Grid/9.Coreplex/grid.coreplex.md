@@ -67,3 +67,7 @@ You shouldn't be here. And yet, you are.
 > The air flattens. Time returns. Your signal stabilizes in the Coreplex.
 >
 > **You weren’t granted access. You were *routed*.**
+
+---
+
+The player becomes a sergent, allowing to customize teammates

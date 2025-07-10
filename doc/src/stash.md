@@ -49,7 +49,7 @@ Instead of elemental damage, the game will use "damage types", like physical, di
 
 ## Start of the game
 
-The game will start with the player waking up in it's apartment, having to do some chores and get ready for work. The player will then go to work, where they'll have to do a capcha, before an emergency alarm rings. Upon leaving and following the mass of people, the player will face a "choice", where they can either exit the building or go twards an open door where they saw suspicious people get in. The choice will force the player to investigate, as if they choose to exit the character will refuse and go check it out. Upon following them, the player will be seen, and the Echoes will leave through a data stream, illegal portal leading to somewhere their hideout. Curious about it, the character will try to follow them, but the stream closes before they can get in.
+The game will start with the player waking up in it's apartment, having to do some chores and get ready for work. The player will then go to work, where they'll have to do a capcha, before an emergency alarm rings. Upon leaving and following the mass of people, the player will face a "choice", where they can either exit the building or go towards an open door where they saw suspicious people get in. The choice will force the player to investigate, as if they choose to exit the character will refuse and go check it out. Upon following them, the player will be seen, and the Echoes will leave through a data stream, illegal portal leading to somewhere (their hideout). Curious about it, the character will try to follow them, but the stream closes before they can get in.
 The player will then be prompted to leave but finds a charm left behind by the Echoes. The player goes back to the apartment, and the Echoes will knock on the door, coming back for their charm.
 The player will then confront the Echoes, asking how they can freely use data streams without Aevum interfering, and if they are members of the rummored hacking group that's been causing trouble to Aevum. The Echoes will then ask the player how much they know about Aevum and the Echoes, and after some back and forth, the Echoes decide to give the player a chance to join them. Warning the player that if they do not join, Aevum will come for them as the Echoes interacted with them. With the charm in hand, the character will decide to join the Echoes and the game will then start.
 
@@ -163,3 +163,6 @@ Factions resist based on **Type**, with some Signatures bypassing or modifying t
 | `Break`       | Hits through all resistance. No logic applied.   | True Damage           | ❗           |
 | `EchoEnd`     | Copies the moment of death in advance.           | Doomed (Delayed Kill) | ❗           |
 | `404`         | Doesn’t exist. Still happens.                    | Existence Error       | ❗           |
+
+
+Heat system, attacks you launch causes heat, and can inflict self damage

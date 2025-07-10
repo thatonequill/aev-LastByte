@@ -57,3 +57,8 @@ Cyphra is the perfect library and the perfect prison.
 > You pass through a fracture in perception, a pulse of corrupted signal that sweeps you into Glasspace’s embrace. The transition is sharp — a reboot of the senses — as you arrive in the data labyrinth known as Cyphra.
 >
 > Somewhere in the midst of this endless archive, secrets wait to be unearthed.
+
+
+---
+
+First region where the player has teammates
