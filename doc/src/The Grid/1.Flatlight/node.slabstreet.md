@@ -67,5 +67,5 @@ The node presents a carefully paced transition from passive observation to activ
 
 ## 🧠 Narrative Beat
 
-> “This system isn’t broken. It’s *perfect.* Too perfect. Ask yourself—why does that scare you?”
+> “The system isn’t broken. It’s *perfect.* Too perfect. Ask yourself—why does that scare you?”
 
