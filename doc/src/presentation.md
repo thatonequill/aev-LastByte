@@ -10,9 +10,9 @@ This isn’t meant to tell you everything that will happen (that would spoil the
 
 The universe is set in a futuristic setting and composed of **2.5 worlds**:
 
-* The `Glasspace`: a digital world where the main story is set.
-* The `Meatspace`: the physical world, shown in the past or as an alternate reality.
-* The `Fractures`: where both worlds merge into a corrupted, glitchy mess.
+-   The `Glasspace`: a digital world where the main story is set.
+-   The `Meatspace`: the physical world, shown in the past or as an alternate reality.
+-   The `Fractures`: where both worlds merge into a corrupted, glitchy mess.
 
 ---
 
@@ -20,13 +20,13 @@ The universe is set in a futuristic setting and composed of **2.5 worlds**:
 
 Each world comes with its own enemy faction:
 
-* `Aevum`: the faction in charge of Glasspace—order and unity for the greater good.
+-   `Aevum`: the faction in charge of Glasspace—order and unity for the greater good.
 
-  > *We must move as one. Anything going against our flow will be eliminated.*
+    > _We must move as one. Anything going against our flow will be eliminated._
 
-* `Verdarch`: the faction in charge of Meatspace—nature’s free flow is their only guide.
+-   `Verdarch`: the faction in charge of Meatspace—nature’s free flow is their only guide.
 
-  > *One must follow nature’s will, for only it knows what’s best for our world.*
+    > _One must follow nature’s will, for only it knows what’s best for our world._
 
 ---
 
@@ -119,19 +119,19 @@ The Grid is divided into **Areas (`Shards`)**, and each Shard into **Nodes**.
 Nodes are explorable gameplay spaces.
 So:
 
-* `The Grid` = all Shards
-* A `Shard` = a collection of Nodes
+-   `The Grid` = all Shards
+-   A `Shard` = a collection of Nodes
 
 ---
 
 ## Extensions
 
-Because I’m a nerd who likes nerd things, almost everything in the game (okay, maybe not *everything* everything) will have a **cosmetic file-extension-like name**.
+Because I’m a nerd who likes nerd things, almost everything in the game (okay, maybe not _everything_ everything) will have a **cosmetic file-extension-like name**.
 
 This serves two main purposes:
 
-* Helps visually distinguish the world and its logic.
-* Gives the player a fast, visual read of what they're interacting with (e.g., `grid.ShardName` vs. `root.ShardName`).
+-   Helps visually distinguish the world and its logic.
+-   Gives the player a fast, visual read of what they're interacting with (e.g., `grid.ShardName` vs. `root.ShardName`).
 
 These are optional and can cause visual clutter—so I plan to add a toggle by category.
 (They're **on by default** >:3)
@@ -172,4 +172,3 @@ The game will have **4 (well, 3.5)** gameplay phases:
 ---
 
 ### If you want to know anything else, feel free to @ me and I’ll update this doc with anything major that’s missing.
-

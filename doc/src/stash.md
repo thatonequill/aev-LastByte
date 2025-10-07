@@ -63,32 +63,31 @@ Cant read => https://www.1001fonts.com/4-sided-font.html
 
 vaiiya => https://www.1001fonts.com/quantum-font.html
 
-
-### 🟦 Aevum-Controlled Zones *(Glasspace)*
+### 🟦 Aevum-Controlled Zones _(Glasspace)_
 
 | Difficulty | Icon | Designation      | Description                                                  |
 | ---------- | ---- | ---------------- | ------------------------------------------------------------ |
 | 1          | `🟦` | Observation Zone | Safe, tutorial space. Light surveillance and system prompts. |
 | 2          | `🟪` | Adaptive Zone    | Slightly more autonomous. Patrols present, but sparse.       |
 | 3          | `🟥` | Active Control   | Combat-enabled zones with stronger Aevum enforcement.        |
-| 4          | `⬛`  | Locked Grid      | Hostile environments. Core systems and lockdown barriers.    |
+| 4          | `⬛` | Locked Grid      | Hostile environments. Core systems and lockdown barriers.    |
 | 5          | `⚠️` | Overclocked      | Highly unstable. Glitchstorms, firewalls, extreme defense.   |
 
 ---
 
-### 🌿 Verdarch-Controlled Zones *(Meatspace)*
+### 🌿 Verdarch-Controlled Zones _(Meatspace)_
 
 | Difficulty | Icon | Name       | Description                                                            |
 | ---------- | ---- | ---------- | ---------------------------------------------------------------------- |
 | 1          | `🌿` | Verdant    | Peaceful natural zone, mostly untouched. No active threats.            |
 | 2          | `🍂` | Witherwild | Slight decay or corruption, wildlife grows tense.                      |
-| 3          | `🪻` | Bloomveil  | Strong nature presence, arcane blooms and magical disturbances.        |
+| 3          | `🪻`  | Bloomveil  | Strong nature presence, arcane blooms and magical disturbances.        |
 | 4          | `🔮` | Mystic     | Reality thins; magical threats and unpredictable terrain.              |
-| 5          | `🜃` | Deep Myth  | Primeval energy dominates. Legendary beasts and ancient forces awaken. |
+| 5          | `🜃`  | Deep Myth  | Primeval energy dominates. Legendary beasts and ancient forces awaken. |
 
 ---
 
-### ⍉ Fracture Zones *(frx.)*
+### ⍉ Fracture Zones _(frx.)_
 
 | Difficulty | Icon | Description                                                              |
 | ---------- | ---- | ------------------------------------------------------------------------ |
@@ -96,7 +95,7 @@ vaiiya => https://www.1001fonts.com/quantum-font.html
 
 ---
 
-> **"The system isn’t broken. It’s *perfect.* Too perfect. Ask yourself—why does that scare you?"**
+> **"The system isn’t broken. It’s _perfect._ Too perfect. Ask yourself—why does that scare you?"**
 
 **Everything runs on time.
 Every life, optimized.
@@ -119,4 +118,4 @@ And now **they** know you're watching.
 **`aev.LastByte`**
 A fractured tactical RPG where reality is layered, control is illusion, and rebellion starts with a question.
 
-*Sync in. Break out.*
+_Sync in. Break out._
