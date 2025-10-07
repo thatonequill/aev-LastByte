@@ -9,7 +9,7 @@ import os
 import re
 
 # === CONFIG ===
-OUTPUT_DIR = "./doc/src/enemies"
+OUTPUT_DIR = "doc/src/enemies"
 
 TEMPLATE = """# `{name}`
 
