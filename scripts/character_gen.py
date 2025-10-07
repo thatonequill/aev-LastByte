@@ -5,6 +5,7 @@ Creates a Markdown file for a new character based on structured prompts.
 """
 
 from datetime import datetime
+import os
 import re
 
 # === CONFIG ===
@@ -71,6 +72,9 @@ def prompt_field(label, multiline=False):
 
 def main():
     print("=== aev.LastByte Character Sheet Generator ===")
+
+    # Ensure output directory exists
+    os.makedirs(OUTPUT_DIR, exist_ok=True)
 
     # Collect data
     name = prompt_field("Character name:")
